@@ -1,5 +1,4 @@
-import UI.mainFrame;
-
+import ui.mainFrame;
 
 public class main {
 
