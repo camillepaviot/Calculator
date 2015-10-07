@@ -1,7 +1,6 @@
 package operators;
 
 import static org.junit.Assert.assertEquals;
-import operators.Addition;
 
 import org.junit.Test;
 
